@@ -1,0 +1,11 @@
+,year,name,artists,popularity_x,genres,genre
+14406,1994,All I Want for Christmas Is You,Mariah Carey,88,"['dance pop', 'pop', 'r&b', 'urban contemporary']",pop
+15608,2000,In the End,Linkin Park,84,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']",metal
+15606,2000,Yellow,Coldplay,84,"['permanent wave', 'pop']",Eclectic
+14006,1992,Jingle Bell Rock,Bobby Helms,83,[],
+13812,1991,Losing My Religion,R.E.M.,82,"['alternative rock', 'classic rock', 'permanent wave', 'pop rock', 'rock']",rock
+14206,1993,Creep,Radiohead,82,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']",rock
+14607,1995,Gangsta's Paradise,"Coolio, L.V.",82,,NaN
+15410,1999,Californication,Red Hot Chili Peppers,81,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",funk
+13808,1991,Under the Bridge,Red Hot Chili Peppers,81,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",funk
+14410,1994,Zombie,The Cranberries,81,"['irish rock', 'pop rock']",rock

@@ -1,0 +1,11 @@
+,year,name,artists,popularity_x,genres,genre
+1606,1930,Monster Faladoré,Joe Quartz,55,[],
+1406,1929,Mack the Knife,Louis Armstrong,52,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'swing', 'vocal jazz']",Eclectic
+1206,1928,"Sing, Sing, Sing",Benny Goodman,51,"['adult standards', 'bebop', 'big band', 'jazz', 'jazz clarinet', 'lounge', 'stride', 'swing', 'vintage jazz', 'vocal jazz']",Eclectic
+806,1926,Ain't Misbehavin',Fats Waller,49,"['adult standards', 'bebop', 'dixieland', 'harlem renaissance', 'jazz', 'jazz piano', 'ragtime', 'stride', 'swing', 'tin pan alley', 'vocal jazz']",Eclectic
+1607,1930,"Hungarian Rhapsody No. 2 in C-Sharp Minor, S. 244/2","Franz Liszt, Vladimir Horowitz",48,,NaN
+1207,1928,"Dark Was the Night, Cold Was the Ground",Blind Willie Johnson,47,"['acoustic blues', 'appalachian folk', 'blues', 'country blues', 'gospel blues', 'texas blues', 'traditional blues', 'traditional folk']",Eclectic
+807,1926,Two Sleepy People,Fats Waller,45,"['adult standards', 'bebop', 'dixieland', 'harlem renaissance', 'jazz', 'jazz piano', 'ragtime', 'stride', 'swing', 'tin pan alley', 'vocal jazz']",Eclectic
+222,1923,Nobody Knows You When You're Down and Out,Bessie Smith,42,"['blues', 'harlem renaissance', 'jazz blues', 'traditional blues', 'vocal jazz']",blues
+1208,1928,It's Nobody's Fault but Mine,Blind Willie Johnson,42,"['acoustic blues', 'appalachian folk', 'blues', 'country blues', 'gospel blues', 'texas blues', 'traditional blues', 'traditional folk']",Eclectic
+221,1923,Weather Bird,"Louis Armstrong, Earl Hines",42,,NaN
