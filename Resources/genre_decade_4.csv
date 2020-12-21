@@ -1,11 +1,11 @@
 ,year,name,artists,popularity_x,genres,genre
-7406,1959,Let It Snow! Let It Snow! Let It Snow!,Dean Martin,81,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']",Eclectic
-7606,1960,At Last,Etta James,76,"['adult standards', 'jazz blues', 'soul', 'soul blues', 'torch song', 'vocal jazz']",Eclectic
-7409,1959,Johnny B. Goode,Chuck Berry,75,"['blues rock', 'classic rock', 'rock', 'rock-and-roll', 'rockabilly', 'soul']",rock
-7006,1957,Blue Christmas,Elvis Presley,74,"['rock-and-roll', 'rockabilly']",Eclectic
-7207,1958,Jailhouse Rock,Elvis Presley,73,"['rock-and-roll', 'rockabilly']",Eclectic
-7007,1957,Dream A Little Dream Of Me - Single Version,"Ella Fitzgerald, Louis Armstrong",72,,NaN
-7411,1959,Rudolph The Red-Nosed Reindeer,Dean Martin,70,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']",Eclectic
-7206,1958,Come Fly With Me - Remastered,Frank Sinatra,70,"['adult standards', 'easy listening', 'lounge']",Eclectic
-7607,1960,A Sunday Kind Of Love,Etta James,70,"['adult standards', 'jazz blues', 'soul', 'soul blues', 'torch song', 'vocal jazz']",Eclectic
-7608,1960,Sleigh Ride,Ella Fitzgerald,69,"['adult standards', 'jazz blues', 'swing', 'vocal jazz']",Eclectic
+14867,1959,Let It Snow! Let It Snow! Let It Snow!,Dean Martin,81,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']",easy listening
+23983,1960,At Last,Etta James,76,"['adult standards', 'jazz blues', 'soul', 'soul blues', 'torch song', 'vocal jazz']",adult standards
+20959,1959,Johnny B. Goode,Chuck Berry,75,"['blues rock', 'classic rock', 'rock', 'rock-and-roll', 'rockabilly', 'soul']",rock
+19474,1957,Blue Christmas,Elvis Presley,74,"['rock-and-roll', 'rockabilly']",rock-and-roll
+19487,1958,Jailhouse Rock,Elvis Presley,73,"['rock-and-roll', 'rockabilly']",rock-and-roll
+9294,1958,Come Fly With Me - Remastered,Frank Sinatra,70,"['adult standards', 'easy listening', 'lounge']",easy listening
+14869,1959,Rudolph The Red-Nosed Reindeer,Dean Martin,70,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']",easy listening
+23984,1960,A Sunday Kind Of Love,Etta James,70,"['adult standards', 'jazz blues', 'soul', 'soul blues', 'torch song', 'vocal jazz']",adult standards
+21744,1958,My Baby Just Cares for Me - 2013 Remastered Version,Nina Simone,69,"['jazz blues', 'soul', 'soul jazz', 'torch song', 'vocal jazz']",Eclectic
+7648,1959,Big Iron,Marty Robbins,69,"['cowboy western', 'nashville sound']",Eclectic

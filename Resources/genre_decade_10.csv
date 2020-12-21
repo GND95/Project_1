@@ -1,11 +1,11 @@
 ,year,name,artists,popularity_x,genres,genre
-19407,2019,Watermelon Sugar,Harry Styles,94,"['pop', 'post-teen pop']",pop
-19426,2019,Breaking Me,"Topic, A7S",92,,NaN
-19413,2019,Someone You Loved,Lewis Capaldi,91,"['pop', 'uk pop']",pop
-19406,2019,Sofia,Clairo,90,"['bedroom pop', 'boston indie']",Eclectic
-19443,2019,Memories,Maroon 5,89,"['pop', 'pop rock']",pop
-19207,2018,Lucid Dreams,Juice WRLD,89,"['chicago rap', 'melodic rap']",rap
-19210,2018,lovely (with Khalid),"Billie Eilish, Khalid",89,,NaN
-19441,2019,Dance Monkey,Tones And I,89,['australian pop'],Eclectic
-19417,2019,Golden,Harry Styles,89,"['pop', 'post-teen pop']",pop
-19409,2019,Circles,Post Malone,89,"['dfw rap', 'melodic rap', 'rap']",rap
+89508,2019,Watermelon Sugar,Harry Styles,94,"['pop', 'post-teen pop']",pop
+90295,2019,Someone You Loved,Lewis Capaldi,91,"['pop', 'uk pop']",pop
+89387,2019,Sofia,Clairo,90,"['bedroom pop', 'boston indie']",Eclectic
+88862,2019,Circles,Post Malone,89,"['dfw rap', 'melodic rap', 'rap']",rap
+90166,2019,The Box,Roddy Ricch,89,"['melodic rap', 'rap', 'trap']",rap
+77943,2019,Memories,Maroon 5,89,"['pop', 'pop rock']",pop
+89509,2019,Golden,Harry Styles,89,"['pop', 'post-teen pop']",pop
+90358,2019,Dance Monkey,Tones And I,89,['australian pop'],Eclectic
+89952,2018,Lucid Dreams,Juice WRLD,89,"['chicago rap', 'melodic rap']",rap
+89031,2019,bad guy,Billie Eilish,88,['pop'],pop
