@@ -6,7 +6,7 @@
 Using statistical analysis, we can predict some of the traits which can contribute to the overall success of a song in today’s market.
 
 ## **Motivation**
-This year, while Spotify did take an early hit in revenue as lockdowns began, they quickly rebounded and returned to their pre-pandemic projected growth rate- quite a feat for a "non-essential" service at a time when money is tight for many users! [Source](https://variety.com/2020/digital/news/spotify-q1-2020-gains-6-million-subscribers-coronavirus-1234592814/) In many cases, streaming is an easy and cheap way for customers to keep their media libraries fresh and interesting in a time when we’re using those libraries more than ever, which means it’s a richer-than-ever data source to learn about the most current media trends. We were curious what we could learn about these trends from a very up-to-date dataset.
+This year, while Spotify did take an early hit in revenue as lockdowns began, they quickly rebounded and returned to their pre-pandemic projected growth rate- quite a feat for a "non-essential" service at a time when money is tight for many users! [ [Source](https://variety.com/2020/digital/news/spotify-q1-2020-gains-6-million-subscribers-coronavirus-1234592814/) ] In many cases, streaming is an easy and cheap way for customers to keep their media libraries fresh and interesting in a time when we’re using those libraries more than ever, which means it’s a richer-than-ever data source to learn about the most current media trends. We were curious what we could learn about these trends from a very up-to-date dataset.
 
 ## **Questions examined:**
 - What music genres are most popular right now?
@@ -59,7 +59,7 @@ Using the above listed methods, we were able to calculate and visualize trends d
 
 <br/> ![Screenshot of charts showing "rock" as the most common defined genre within the dataset](/Resources/README_images/genre_trends.png)
 
-* Nearly all of the audio features defined by Spotify have trended clearly and positively over the past 100 years of music releases (see linear regressions above)
+* Nearly all of the audio features defined by Spotify have trended clearly and positively over the past 100 years of music releases (see linear regressions above).
 * Notable exceptions to this trend include "instrumentalness", "explicitness", and, "speechiness". Speechiness's weak positive trend surprised all of us, as there has been such an explosion of rap and hip-hop over the past 30 years, and is something we would like to examine more closely given more time.
 
 <br/> ![Screenshot of the surprises discovered during regression analysis of audio features](/Resources/README_images/audio_feature_surprises.png)
@@ -68,7 +68,7 @@ Using the above listed methods, we were able to calculate and visualize trends d
 * In particular, duets are approximately 6% more concentrated in the 5% most popular songs in the dataset compared to the dataset as a whole
 * This was surprising, as songs with more than one artist only make up about 20% of the dataset as a whole, and duets only make up around 14% of the dataset as a whole.
 * This implies that, in the current market, there is less competition and more opportunity for success for duets than solo songs or songs with three or more credited artists.
-* Given more time, I would be interested in studying the absolute and relative popularity of the artists performing these duets, as well as the effect of genre on duet popularity, to really hone in on what kind of duet has the best shot at success.
+* Given more time, we would be interested in studying the absolute and relative popularity of the artists performing these duets, as well as the effect of genre on duet popularity, to really hone in on what kind of duet has the best shot at success.
 
 <br/> ![Screenshot of two pie charts illustrating the breakdown of solo, duet and 3+ performer songs in the dataset as a whole vs the top 5% most popular songs in the dataset](/Resources/README_images/collab_percentages.png)
 
