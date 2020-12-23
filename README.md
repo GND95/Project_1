@@ -8,9 +8,9 @@
 * Genres
 
 **GenreFinder Function Flowchart:**<br/>
-<br/> ![1](/images/genre/GenreFinderFunctionFlowChart.png)
+<br/> ![1](/README_images/GenreFinderFunctionFlowChart.png)
 
 **All Genres All Decades:**<br/>
-<br/> ![1](/images/genre/allGenresAllDecades.png)
+<br/> ![1](/README_images/allGenresAllDecades.png)
 
 Correlated music trends for a data set compiled by Spotify for the time period over the years of 1921 - current.
